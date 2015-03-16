@@ -1,0 +1,1 @@
+This is an effort to interface KiCad and NGSPICE.
